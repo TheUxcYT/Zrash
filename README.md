@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-active-success)
 ![platform](https://img.shields.io/badge/platform-Minecraft%201.8%E2%80%931.21-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
+![license](https://img.shields.io/badge/license-apache-green)
 
 ---
 
@@ -29,6 +29,6 @@ Whether you're running a public practice server, a private training arena, or a 
 - **🔌 Addon API** — extend kits, queues, and stats via a simple event API.
 - **🛡️ Anti-cheat friendly** — clean hooks, no packet abuse, no conflicts.
 - **🌍 Multi-version** — supports 1.8 through 1.21 via NMS abstraction.
-This core is under dev!
+- **This plugin is under development!**
 
 > **ZRash** — _practice less painfully, PvP more visibly._
